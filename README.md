@@ -23,6 +23,7 @@
 <div align="center">
 
 ### 💻 Languages
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank"><img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/></a>
@@ -30,6 +31,7 @@
 <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a>
 
 ### 🔧 Frameworks & Libraries
+
 <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/></a>
@@ -37,6 +39,7 @@
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
 
 ### 🗄️ Databases & Tools
+
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
@@ -50,19 +53,23 @@
 ## 📊 Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hvb1412&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvb1412&layout=compact&langs_count=8&theme=tokyonight"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hvb1412&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvb1412&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
 </div>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hvb1412&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hvb1412&theme=dark&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
 
 ## 🏆 GitHub Trophies
+
 [![Github trophy](https://github-profile-trophy.vercel.app/?username=hvb1412&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🐍 Contribution Graph (The Snake)
+
 <div align="center">
   <a href="https://github.com/Platane/snk">
     <img src="https://github.com/hvb1412/hvb1412/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -70,6 +77,7 @@
 </div>
 
 ## ✍️ Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
