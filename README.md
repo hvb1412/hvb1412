@@ -34,7 +34,7 @@
 <a href="mailto:hoangvanbinh141205@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
 </a>
-<a href="https://discord.com/users/hoangvanbinh7522" target="_blank">
+<a href="https://discord.com/users/945715523226849310" target="_blank">
   <img src="https://skillicons.dev/icons?i=discord" height="40" width="40" />
 </a>
 
