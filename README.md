@@ -62,7 +62,7 @@
   </a>
 </div>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hvb1412&theme=dark&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-seven.vercel.app?user=hvb1412&theme=dark&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
 
 ## 🏆 GitHub Trophies
 
