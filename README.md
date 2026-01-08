@@ -64,7 +64,9 @@
 
 ## 🐍 Contribution Graph (The Snake)
 <div align="center">
-  <img src="https://github.com/hvb1412/hvb1412/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <a href="https://github.com/Platane/snk">
+    <img src="https://github.com/hvb1412/hvb1412/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  </a>
 </div>
 
 ## ✍️ Random Dev Quote
