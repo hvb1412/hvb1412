@@ -96,7 +96,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
+## 🌸 Profile Views
 <div align="center">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=hvb1412&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <h3>Visitors Count</h3>
+  <img src="https://count.getloli.com/get/@hvb1412?theme=capoo-1" alt="Moe Counter" />
+  <img src="https://count.getloli.com/get/@hvb1412?theme=ai-1" alt="Moe Counter" />
 </div>
