@@ -68,7 +68,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![Github trophy](https://github-profile-trophy.vercel.app/?username=hvb1412&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![Github trophy](https://github-profile-trophy-jade-nine.vercel.app/?username=hvb1412&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Github Activity Graph
 <div align="center">
