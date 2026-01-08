@@ -143,3 +143,7 @@
   <h3>Visitors Count</h3>
   <img src="https://count.getloli.com/get/@hvb1412?theme=booru-jaypee" alt="Moe Counter" />
 </div>
+
+<div align="center">
+  <img src="images/CodingPin.gif" width="100%" alt="Header GIF" />
+</div>
