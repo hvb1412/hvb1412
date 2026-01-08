@@ -77,7 +77,7 @@
   </a>
 </div>
 
-## 🐍 Contribution Graph (The Snake)
+## 🧊 Contribution 
 
 <div align="center">
   <a href="https://github.com/Platane/snk">
@@ -85,7 +85,6 @@
   </a>
 </div>
 
-## 🧊 Contribution
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D View" />
 </div>
