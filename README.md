@@ -6,7 +6,8 @@
   <h1>Hi there 👋, I'm Hoang Van Binh</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23B740&center=true&width=435&lines=Fullstack+Developer+(MERN);Targeting+Working+in+Japan+🇯🇵;私はホアン・ヴァン・ビンです。;Always+Curious,+Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=22&pause=1000&color=23B740&center=true&width=435&lines=Fullstack+Developer+(MERN);Targeting+Working+in+Japan+🇯🇵;私はホアン・ヴァン・ビンです。;Always+Curious,+Always+Learning!" alt="Typing SVG" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   </a>
 </div>
 
@@ -17,6 +18,12 @@
 - 👯 I’m looking to collaborate on **Open Source & Web Applications**
 - 🎯 Goal: **Become a Professional Fullstack Engineer in Japan**
 - 📫 How to reach me: **hoangvanbinh141205@gmail.com**
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=🇻🇳+Hanoi+Time:+GMT+%2B7;🇯🇵+Tokyo+Time:+GMT+%2B9;🌏+Dual+Timezone+Setup" alt="Digital Clock Animation" />
+  </a>
+</div>
 
 ## 🌐 Connect with me
 
@@ -99,7 +106,7 @@
 </div>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-seven.vercel.app?user=hvb1412&theme=dark&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-seven.vercel.app?user=hvb1412&theme=tokyonight&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
 </div>
 
 ## 📈 Github Activity Graph
@@ -130,7 +137,7 @@
   </a>
 </div>
 
-## 📈 Profile Views
+## 👁️ Profile Views
 
 <div align="center">
   <h3>Visitors Count</h3>
