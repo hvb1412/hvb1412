@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **Next.js, TypeScript & Japanese (N3/N2)**
 - 👯 I’m looking to collaborate on **Open Source & Web Applications**
 - 🎯 Goal: **Become a Professional Fullstack Engineer in Japan**
-- 📫 How to reach me: **[Điền Email của bạn vào đây]**
+- 📫 How to reach me: **hoangvanbinh141205@gmail.com**
 
 ## 🛠️ Tech Stack & Skills
 
@@ -69,6 +69,13 @@
 ## 🏆 GitHub Trophies
 
 [![Github trophy](https://github-profile-trophy.vercel.app/?username=hvb1412&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 Github Activity Graph
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hvb1412&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  </a>
+</div>
 
 ## 🐍 Contribution Graph (The Snake)
 
