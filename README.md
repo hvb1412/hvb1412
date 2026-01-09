@@ -147,3 +147,9 @@
 <div align="center">
   <img src="images/CodingPin.gif" width="100%" alt="Header GIF" />
 </div>
+
+## 🌌 Immersive Stats (Isometric Mode)
+
+<div align="center">
+  <img src="https://github.com/hvb1412/hvb1412/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
